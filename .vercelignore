@@ -1,0 +1,16 @@
+# Vercel Deployment Ignore Configuration
+# Ignore all Kotlin/Android source directories and compilation artifacts
+app/
+gradle/
+.gradle/
+build/
+assets/
+metadata.json
+build.gradle.kts
+settings.gradle.kts
+gradle.properties
+LICENSE
+README.md
+.env.example
+debug.keystore.base64
+/debug.keystore

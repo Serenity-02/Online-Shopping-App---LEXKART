@@ -1,0 +1,8 @@
+{
+  "name": "LEXKART",
+  "description": "An offline-first e-commerce store with user profiles, advanced product filtering, admin manual add/edit controls, and dynamic performance analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
