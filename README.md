@@ -1,7 +1,7 @@
-# NEXKART 🚀
+# LEXKART 🚀
 An elegant, production-ready, offline-first Material 3 E-Commerce shopping application for Android. 
 
-NEXKART is a fully featured Android e-commerce store built entirely with **Kotlin**, **Jetpack Compose**, and **Clean Architecture (MVVM)**. It leverages **Room Database** for high-performance localized persistence and integrates seamlessly with **Firebase Firestore** for scalable enterprise cloud synchronization.
+LEXKART is a fully featured Android e-commerce store built entirely with **Kotlin**, **Jetpack Compose**, and **Clean Architecture (MVVM)**. It leverages **Room Database** for high-performance localized persistence and integrates seamlessly with **Firebase Firestore** for scalable enterprise cloud synchronization.
 
 ---
 
